@@ -1,0 +1,18 @@
+colorScheme = "terminal"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+[homepage]
+layout = "profile"
+showRecent = true
+showRecentItems = 5
+
+[article]
+showAuthor = false
+showAuthorBottom = false
+showDate = true
+showReadingTime = true
+showTableOfContents = true
+
+[list]
+showCards = false

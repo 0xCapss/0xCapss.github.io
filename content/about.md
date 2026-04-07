@@ -13,12 +13,12 @@ This blog documents what I learn. No fluff, no theory without practice.
 ---
 ## CERTIFICATIONS
 
-| Badge                                                                                                                                                                                      | Certification                                    | Status      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ----------- |
-| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/111232000" width="300"/>                                                                       | OSCP - Offensive Security Certified Professional | Achieved    |
-| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/155552202" width="300" />                                                                      | CRTP - Certified Red Team Professional           | Achieved    |
-| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/175125981" width="300" />                                                                      | CRTE - Red team Expert  |  Achieved    |
-|                                                                                                                                                                                            | CETP - Certified Evasion Techniques Professional | In progress |
+| Badge                                                                                                                 | Certification                                    | Status      |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------- |
+| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/111232000" width="300"/>  | OSCP - Offensive Security Certified Professional | Achieved    |
+| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/155552202" width="300" /> | CRTP - Certified Red Team Professional           | Achieved    |
+| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/175125981" width="300" /> | CRTE - Red team Expert                           | Achieved    |
+|                                                                                                                       | CETP - Certified Evasion Techniques Professional | In progress |
 
 ---
 

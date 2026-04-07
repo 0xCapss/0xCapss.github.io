@@ -29,8 +29,6 @@ params:
     buttons:
       - name: Posts
         url: /posts/
-      - name: Tags
-        url: /tags/
   socialIcons:
     - name: github
       url: "https://github.com/0xCapss"
@@ -53,10 +51,6 @@ menu:
       name: Maldev
       url: /maldev/
       weight: 25
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 30
     - identifier: about
       name: About
       url: /about/

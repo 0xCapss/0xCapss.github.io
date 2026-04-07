@@ -29,6 +29,10 @@ params:
     buttons:
       - name: Posts
         url: /posts/
+      - name: Write-ups
+        url: /writeups/
+      - name: Sherlocks
+        url: /sherlocks/
   socialIcons:
     - name: github
       url: "https://github.com/0xCapss"

@@ -5,15 +5,6 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-07T10:48:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ad/</loc>
-    <lastmod>2026-04-07T10:48:06+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/easy/</loc>
-    <lastmod>2026-04-07T10:48:06+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/htb/</loc>
-    <lastmod>2026-04-07T10:48:06+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/writeups/nom-de-la-machine/</loc>
     <lastmod>2026-04-07T10:48:06+02:00</lastmod>
   </url><url>
@@ -21,12 +12,6 @@
     <lastmod>2026-04-07T10:48:06+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sherlocks/</loc>
-    <lastmod>2026-04-07T10:48:06+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-04-07T10:48:06+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2026-04-07T10:48:06+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writeups/</loc>
@@ -39,6 +24,9 @@
     <lastmod>2026-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

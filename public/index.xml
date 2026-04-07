@@ -1,23 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>0xCapss</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on 0xCapss</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Red Team blog. OSCP · CRTP · CRTE · CETP in progress.&lt;/p&gt;</description>
-      
+      <description>First post.</description>
     </item>
-    
+    <item>
+      <title>whoami</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;-whoami&#34;&gt;$ whoami&lt;/h2&gt;
+&lt;p&gt;Technology teacher turned offensive security operator. No engineering degree, a transition built through certifications, late nights on Ghidra, and a lot of broken VMs.&lt;/p&gt;
+&lt;p&gt;This blog documents what I learn. No fluff, no theory without practice.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;certifications&#34;&gt;CERTIFICATIONS&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Badge&lt;/th&gt;
+          &lt;th&gt;Certification&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/111232000&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+          &lt;td&gt;OSCP - Offensive Security Certified Professional&lt;/td&gt;
+          &lt;td&gt;Achieved&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/155552202&#34; width=&#34;300&#34; /&gt;&lt;/td&gt;
+          &lt;td&gt;CRTP - Certified Red Team Professional&lt;/td&gt;
+          &lt;td&gt;Achieved&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/175125981&#34; width=&#34;300&#34; /&gt;&lt;/td&gt;
+          &lt;td&gt;CRTE - Red team Expert&lt;/td&gt;
+          &lt;td&gt;Achieved&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;CETP - Certified Evasion Techniques Professional&lt;/td&gt;
+          &lt;td&gt;In progress&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;roadmap&#34;&gt;ROADMAP&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Phase&lt;/th&gt;
+          &lt;th&gt;Certification&lt;/th&gt;
+          &lt;th&gt;Provider&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;CETP&lt;/td&gt;
+          &lt;td&gt;Altered Security&lt;/td&gt;
+          &lt;td&gt;In progress&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;MalDev Academy&lt;/td&gt;
+          &lt;td&gt;MalDev Academy&lt;/td&gt;
+          &lt;td&gt;Planned&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;CAPE&lt;/td&gt;
+          &lt;td&gt;HTB&lt;/td&gt;
+          &lt;td&gt;Planned&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;CRTO&lt;/td&gt;
+          &lt;td&gt;Zero-Point Security&lt;/td&gt;
+          &lt;td&gt;Planned&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;technical-stack-most-of-them-are-in-progress&#34;&gt;TECHNICAL STACK (Most of them are in progress)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;EDR Evasion &amp;amp; Kernel&lt;/strong&gt;
+Windows Internals, PE Structure, Kernel Callbacks, ETW Patching, PPL Bypass, Rootkit Development, Driver Exploitation&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,10 +1,68 @@
 baseURL: "https://0xCapss.github.io/"
 languageCode: "en-us"
 title: "0xCapss"
-theme: blowfish
+theme: PaperMod
 
 pagination:
   pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowShareButtons: false
+  ShowToc: true
+  TocOpen: false
+
+  profileMode:
+    enabled: true
+    title: "0xCapss"
+    subtitle: "Red Team Operator | OSCP · CRTP · CRTE · CETP (in progress)"
+    imageUrl: "https://github.com/0xCapss.png"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Posts
+        url: /posts/
+      - name: Tags
+        url: /tags/
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/0xCapss"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

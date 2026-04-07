@@ -43,8 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dfir/</loc>
-  </url><url>
     <loc>http://localhost:1313/maldev/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>

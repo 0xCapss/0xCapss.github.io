@@ -1,6 +1,6 @@
 ---
-title: "Sherlocks"
-description: "HTB Sherlocks — forensic investigations."
+title: Sherlocks
+description: HTB Sherlock, forensic investigations.
 ---
 
 

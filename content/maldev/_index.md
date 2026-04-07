@@ -1,4 +1,4 @@
 ---
-title: "Maldev"
-description: "Malware development — loaders, injectors, evasion techniques."
+title: Maldev
+description: Malware development;  loaders, injectors, evasion techniques.
 ---
